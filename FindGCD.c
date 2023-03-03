@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n1, n2;
+    int i,n1, n2,gcd;
     
     printf("Enter two positive integers: ");
     scanf("%d %d",&n1,&n2);
